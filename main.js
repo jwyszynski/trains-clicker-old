@@ -2,6 +2,11 @@ $(document).ready(function() {
   console.log("gotowy!");
 });
 
+//Zezwolenie na Tooltip wszędzie
+$(function() {
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
 // Zaokrąglanie liczb z zadaną dokładnością -- http://yarpo.pl/2011/03/06/js-zaokraglanie-liczb-z-zadana-dokladnoscia/
 Math.decimal = function(n, k) {
   var factor = Math.pow(10, k + 1);
