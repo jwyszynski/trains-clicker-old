@@ -17,3 +17,11 @@ Kupując jakieś ulepszenia zdarzenia będą mniej dotkliwe.
 - Lepsze koła
 - Lepsze wagony(towarowe / osobowe)
 - Bardziej opływowy kształt
+
+## Demo
+Na razie brak.
+
+## TODO
+Trzeba pomyśleć jak zacząć ten projekt od nowa. Może z użyciem react'a?
+Zrobienie podstawowych grafik / znalezienie kogoś kto je zrobi
+Zaprojektowanie interfejsu
