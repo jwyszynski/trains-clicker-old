@@ -10,6 +10,7 @@ faza 2:
 Kupujesz ulepszenia typu więcej wagonów, wyższy standard tych wagonów itp. dzięki czemu zarabiasz więcej.
 Będą losowe zdarzenia np. nagłe chamowanie, krach gospodarczy(wagony towarowe nie zarabiają) itp.
 Kupując jakieś ulepszenia zdarzenia będą mniej dotkliwe.
+Dojeżdżasz co jakiś czas do stacji(Różne nazwy stacji).
 
 ## Ulepszenia:
 - Lepszy silnik
