@@ -1,4 +1,5 @@
 # Train Clicker
+React + Bootstrap
 
 ## Jak to ma wyglądać?
 faza 1:
