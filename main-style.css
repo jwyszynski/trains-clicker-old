@@ -21,14 +21,35 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
-.logo {
-  height: 100px;
-}
-
-.item {
+.floatRight {
   float: right;
 }
 
 .clear {
   clear: both;
+}
+
+.stats {
+  height: 300px;
+  border: 1px silver solid;
+}
+
+.upgrades {
+  height: 300px;
+  border: 1px silver solid;
+}
+
+.button-section {
+  height: 300px;
+  border: 1px silver solid;
+}
+
+.trainImage {
+  height: 100px;
+  width: 400px;
+  background-image: url("/img/trains-profile.jpg");
+  background-position: 0px -250px;
+  position: relative;
+  transform: scaleX(-1);
+  background-size: 400px;
 }
