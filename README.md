@@ -1,6 +1,11 @@
 # Train Clicker
 
+React
+Bootstrap
+p5.js - do animacji pociągu
+
 ## Jak to ma wyglądać?
+
 faza 1:
 Klikasz na przycisk aby pociąg ruszył i zwiększał prędkość, jak przestajesz klikać to zwalnia.
 Zarabiasz tym więcej im szybciej jedzie pociąg.
@@ -13,6 +18,7 @@ Kupując jakieś ulepszenia zdarzenia będą mniej dotkliwe.
 Dojeżdżasz co jakiś czas do stacji(Różne nazwy stacji).
 
 ## Ulepszenia:
+
 - Lepszy silnik
 - Nowy maszynista
 - Lepsze koła
@@ -20,9 +26,11 @@ Dojeżdżasz co jakiś czas do stacji(Różne nazwy stacji).
 - Bardziej opływowy kształt
 
 ## Demo
+
 Na razie brak.
 
 ## TODO
+
 Trzeba pomyśleć jak zacząć ten projekt od nowa. Może z użyciem react'a?
 Zrobienie podstawowych grafik / znalezienie kogoś kto je zrobi
 Zaprojektowanie interfejsu

@@ -2,65 +2,30 @@
 <html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Trains Clicker</title>
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="main-style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+    <script src="https://unpkg.com/react/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone/babel.js"></script>
+    <script src="index.js" type="text/babel"></script>
   </head>
   <body>
-    <b><div id="infobox" class="">Potrzebujesz więcej energii</div></b>
-    <div class="game">
-      <!-- <div class="naglowek">
-        <h1>Witaj w grze Trains Clicker!!!</h1>
-      </div> -->
-
-      <div class="gora">
-        <div class="div-klikanie">
-          <div class="speed"><span>100</span> km/h</div>
-          <button
-            title="Kliknij mnie!"
-            class="generator"
-            onclick="klik()"
-          ></button>
-          <div class="dystans"><span>100</span> m</div>
-        </div>
-        <div class="div-srodek">
-          <div class="loco">Loco</div>
-          <div class="new-loco">
-            New Loco <br />
-            Cost <span>100</span> km
-            <div class="upgrade">UPGRADE</div>
-          </div>
-        </div>
-        <div class="div-ulepszenia">
-          <div>
-            <button title="" class="d0" onclick="fun()"></button>
-            <button title="" class="d1" onclick="fun()"></button>
-
-            <button title="" class="d2" onclick="fun()">P</button>
-            <button title="" class="d3" onclick="fun()"></button>
-          </div>
-          <div>
-            <button title="" class="d4" onclick="fun()"></button>
-            <button title="" class="d5" onclick="fun()"></button>
-
-            <button title="" class="d6" onclick="fun()">S</button>
-            <button title="" class="d7" onclick="fun()"></button>
-          </div>
-        </div>
-        <div style="clear:both;"></div>
-      </div>
-      <div class="kolej">
-        Kolej
-        <img src="img/drezyna.png" alt="drezyna" title="Drezyna" />
-      </div>
-      <div class="stopka">
-        @jwyszynski 2019
-      </div>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="main.js"></script>
+    <div id="app"></div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
